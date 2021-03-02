@@ -1,0 +1,14 @@
+----------  Lesson - 2  ---------- (27.02.21)
+#0 --> What is Git
+#1 --> Head Tag
+#2 --> Texts
+#3 --> Display Block
+#4 --> What is lorem
+#5 --> HTML Entities
+#6 --> HyperLinks
+      ✅ Files
+      ✅ Scroll controller
+      ✅ Downloader (using Live-Server)
+      ✅ mailto:Email
+      ✅ tel:Email
+#7 --> Images
