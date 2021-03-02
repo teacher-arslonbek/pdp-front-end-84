@@ -1,0 +1,17 @@
+------------  Lesson - 3  ------------(02.03.21)
+#1 --> HyperLinks
+      ✅ Files
+      ✅ Scroll controller
+      ✅ Downloader (using Live-Server)
+      ✅ mailto:Email
+      ✅ tel:Email
+#2 --> File Paths
+#3 --> Images
+      ✅ Files
+      ✅ Links
+#4 --> Videos
+#5 --> Lists
+      ✅ ul -> unordered
+      ✅ ol -> ordered
+      ✅ dl -> description
+#6 --> Tables
