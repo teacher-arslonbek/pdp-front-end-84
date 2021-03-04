@@ -1,0 +1,30 @@
+-----------  Lesson - 4  -----------
+#1 --> Lists
+      ✅ ul -> unordered
+      ✅ ol -> ordered
+      ✅ dl -> description
+#2 --> Tables
+      ✅ collspan
+#3 -> Semantic elements
+             (Generic)
+                 1. div
+                 2. span
+             (Semantic)
+                 1. article
+                 2. figure
+                 3. mark
+                 4. time
+                 5. footer
+                 6. header
+                 7. main
+                 8. section
+-----------   CSS Basic Properties  ------------
+#4 --> Providing CSS (Amalga oshirish)
+       ✅ Embedded  (O`rnatilgan)
+       ✅ External  (Tashqi)
+       ✅ Inline    (Mos ravishda)
+#5 --> Basic Selectors
+       ✅ Type
+       ✅ Id
+       ✅ Class
+       ✅ Attribute
