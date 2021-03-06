@@ -1,0 +1,28 @@
+-----------  Lesson - 5  -----------(06.03.21)
+#1 --> Providing CSS (Amalga oshirish)
+       ✅ Embedded  (O`rnatilgan)
+       ✅ External  (Tashqi)
+       ✅ Inline    (Mos ravishda)
+#2 --> Basic Selectors
+       ✅ Type
+       ✅ Id
+       ✅ Class
+       ✅ Attribute
+#3 --> Relational Selectors
+       ✅ +
+       ✅ ~
+       ✅ >
+#4 --> Pseudo-class Selectors
+       ✅ :nth-child
+       ✅ :first-child
+       ✅ :first-of-type
+       ✅ :visited
+       ✅ :hover
+       ✅ :active
+       ✅ :focus
+#5 --> Pseudo-elements Selectors
+       ✅ ::first-letter
+       ✅ ::first-line
+       ✅ ::selection
+       ✅ ::after
+       ✅ ::before
