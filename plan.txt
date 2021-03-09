@@ -1,0 +1,25 @@
+-------- Lesson - 6 ---------(09.03.21)
+#1 --> Basic Selectors
+       ✅ Type
+       ✅ Id
+       ✅ Class
+       ✅ Attribute
+#2 --> Relational Selectors
+       ✅ +
+       ✅ ~
+       ✅ >
+#3 --> Pseudo-class Selectors
+       ✅ :nth-child
+       ✅ :first-child
+       ✅ :first-of-type
+       ✅ :visited
+       ✅ :hover
+       ✅ :active
+       ✅ :focus
+#4 --> Pseudo-elements Selectors
+       ✅ ::first-letter
+       ✅ ::first-line
+       ✅ ::selection
+       ✅ ::after
+       ✅ ::before
+#5 --> CSS Inheritance
