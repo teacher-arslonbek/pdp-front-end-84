@@ -1,0 +1,23 @@
+--------- Lesson - 7  --------- (11.03.21)
+#1 --> Pseudo-class Selectors
+       ✅ :nth-child
+       ✅ :first-child
+       ✅ :first-of-type
+       ✅ :visited
+       ✅ :hover
+       ✅ :active
+       ✅ :focus
+#2 --> Pseudo-elements Selectors
+       ✅ ::first-letter
+       ✅ ::first-line
+       ✅ ::selection
+       ✅ ::after
+       ✅ ::before
+#3 --> CSS Inheritance
+#4 --> Shadows
+       ✅ box-shadow
+       ✅ text-shadow
+#5 --> Gradient
+       ✅ Redial
+       ✅ Linear
+#6 --> Border
