@@ -1,0 +1,31 @@
+------------ Lesson - 8 ------------(13.03.21)
+#1 --> CSS Box Model  👍🏻
+#2 -->  Sizing Elements 👍🏻
+        ✅ [*] - all selector
+        ✅ [::before, ::after] - pseudo element
+#3 -->  Overflowing
+#4 -->  Measurement  units
+        ✅ Absolute
+           👉🏻 px
+           👉🏻 pt
+           👉🏻 in
+           👉🏻 cm
+           👉🏻 mm
+        ✅ Relative
+           👉🏻 %        --> container width
+           👉🏻 VW | Vh  --> viewport
+           👉🏻 em | rem --> font-size
+#5 -->  Positioning
+        ✅ Static 👍🏻
+        ✅ Relative 👍🏻
+        ✅ Absolute
+        ✅ Fixed
+        ✅ Sticky
+#6 --> FlexBox -> Flexible Box Layout
+        ✅ display: Flex 👍🏻
+        ✅ flex-direction 👍🏻
+        ✅ justify-content (x-axis) 👍🏻
+        ✅ align-items (y-axis) 👍🏻
+        ✅ align-content 👍🏻
+        ✅ flex-wrap 👍🏻
+        ✅ align-self
