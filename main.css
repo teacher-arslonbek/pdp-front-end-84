@@ -1,0 +1,38 @@
+.parent {
+  color: white;
+  padding: 70px;
+  position: relative;
+  background-color: #0074d9;
+  margin-top: 50px;
+}
+
+.element {
+  background-color: lighten(#0074d9, 20);
+  opacity: 0.85;
+  padding: 20px;
+  color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+p {
+  margin: 0 auto;
+  max-width: 600px;
+  margin-top: 40px;
+  line-height: 1.5;
+}
+
+body {
+  font-family: Georgia, serif;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center;
+  align-items: center; */
+}

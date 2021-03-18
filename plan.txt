@@ -1,0 +1,26 @@
+--------- Lesson - 9 ---------
+#1 -->  Measurement  units 👍🏻
+        ✅ Absolute 👍🏻
+           👉🏻 px
+           👉🏻 pt
+           👉🏻 in
+           👉🏻 cm
+           👉🏻 mm
+        ✅ Relative 👍🏻
+           👉🏻 %        --> container width 👍🏻
+           👉🏻 VW | Vh  --> viewport 👍🏻
+           👉🏻 em | rem --> font-size 👍🏻
+#2 -->  Positioning
+        ✅ Static 👍🏻
+        ✅ Relative 👍🏻
+        ✅ Absolute
+        ✅ Fixed
+        ✅ Sticky
+#3 --> FlexBox -> Flexible Box Layout
+        ✅ display: Flex
+        ✅ flex-direction
+        ✅ justify-content (x-axis)
+        ✅ align-items (y-axis)
+        ✅ align-content
+        ✅ flex-wrap
+        ✅ align-self
