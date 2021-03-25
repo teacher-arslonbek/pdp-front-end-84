@@ -1,0 +1,40 @@
+------------- Lesson - 11 -------------(25.03.21)
+#1 --> FlexBox -> Flexible Box Layout (Repeat)
+        ✅ display: Flex
+        ✅ flex-direction
+        ✅ justify-content (x-axis)
+        ✅ align-items (y-axis)
+        ✅ align-content
+        ✅ flex-wrap
+        ✅ align-self
+#2 --> Display Grid
+        --------- Grid introduction ------------
+        ✅ display: Grid
+        ✅ grid-template-rows
+        ✅ grid-template-columns
+        ✅ grid-template: rows / columns
+                   (site: https://jstutorial.medium.com/css-grid-tutorial-filling-in-the-gaps-c596c9534611)
+
+        --------- Align items ------------
+        ✅ justify-items: (horizontal)
+        ✅ align-items: (vertical)
+        ✅ justify-content: (self horizontal)
+        ✅ align-content: (self verticat)
+
+        --------- Gaps ------------
+        ✅ row-gap
+        ✅ column-gap
+        ✅ gap
+
+        --------- Placing items in named areas ------------
+        ✅ grid-row
+        ✅ grid-column
+        ✅ grid-area
+
+        --------- Placing items ------------
+        ✅ grid-template-areas:
+                                <name1> <name1> <name1>
+                                <name2> <name2> <name2>
+                                <name3> <name4> <name4>
+                                <name3> <name4> <name4>
+        ✅ grid-area
