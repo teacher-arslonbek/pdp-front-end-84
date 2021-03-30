@@ -1,0 +1,44 @@
+----------- Lesson - 13 -------------(30.03.21)
+      ---------- Typography ----------
+#1 --> Font Formats
+✅ TTF   - true type font
+✅ OTF   - open type font
+✅ WOFF  - web open font format     |  More compressed
+✅ WOFF2 - web open font format     |  More compressed
+
+----- for read site ----
+✅ http://www.techcybers.com/blog/ttf-otf-or-woff-font-format/
+
+#2 --> Download Web Fonts
+✅  https://fonts.google.com
+
+#3 --> We compress our fonts
+✅  https://www.fontsquirrel.com/
+
+#4 --> Font services
+✅  https://fonts.google.com
+
+#5 --> Vertical Spacing
+✅ line-hight
+✅ margin
+
+#6 --> Horizontal Spacing
+✅ letter-spacing
+✅ word-spacing
+
+#7 --> Formatting text
+✅ text-align
+✅ text-indent
+✅ text-decoration
+✅ text-transform
+✅ white-space
+
+----------- Images -----------
+
+#8 --> Background Image
+       ✅ background
+       ✅ background-repeat
+       ✅ background-posistion
+       ✅ background-size
+       ✅ background-attachment
+       ✅ url: https://css-tricks.com/almanac/properties/b/background/
