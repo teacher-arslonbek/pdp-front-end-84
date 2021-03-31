@@ -1,0 +1,33 @@
+----------- Lesson-14 -----------(1.04.21)
+
+=============== Images ===============
+#0 --> Background Image
+       ✅ background 👍🏻
+       ✅ background-repeat 👍🏻
+       ✅ background-posistion 👍🏻
+       ✅ background-size
+       ✅ background-attachment
+       ✅ url: https://css-tricks.com/almanac/properties/b/background/
+
+=============== Forms ===============
+#1 --> Creating a Basic Form
+        ✅ https://css-tricks.com/better-form-inputs-for-better-mobile-user-experiences/
+#2 --> Styling Forms
+#3 --> CSS Framework
+#4 --> Text Fields
+         ✅ type
+         ✅ placeholder
+         ✅ value
+         ✅ readonly
+         ✅ disabled
+         ✅ autofocus
+         ✅ maxlength
+         ✅ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime
+#5 --> DataList
+#6 --> Drop-down Lists
+#7 --> Check Boxes
+#8 --> Radio Buttons
+#9 --> Sliders
+#10 --> File Input
+         ✅ accept
+#11 --> Data Validation
