@@ -1,0 +1,26 @@
+---------- Lesson - 15 ----------(03.04.21)
+#1 --> Transformations
+         ✅ Rotate
+         ✅ Scale
+         ✅ Skew
+         ✅ Translate
+
+#2 --> Transitions
+         ✅ transition-delay
+         ✅ transition-duration
+         ✅ transition-timing-function
+         ✅ transition-property
+         ✅ Universal property (Transition)
+         🔗  https://css-tricks.com/almanac/properties/t/transition/
+         🔗  https://cubic-bezier.com/
+
+#3 --> Animations
+         ✅ animation-name
+         ✅ animation-duration
+         ✅ animation-timing-function
+         ✅ animation-delay
+         ✅ animation-direction
+         ✅ animation-iteration-count
+#5 -->  Example Animations
+#4 --> Reusable animation
+         🔗 https://animate.style
