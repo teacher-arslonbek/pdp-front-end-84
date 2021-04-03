@@ -7,45 +7,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #efed40;
 }
 
-.box {
-  width: 500px;
-  height: 500px;
-  background: #eaf178;
-  color: #fff;
-}
-
-.inner_box {
-  width: 150px;
-  height: 150px;
-  background: #804fff;
-  animation: myAnimate 4s linear 0s 1;
-  animation-direction: reverse;
-}
-
-/* .box:active .inner_box {
-  transform: translateX(350px);
-} */
-
-@keyframes myAnimate {
-  0% {
-    background-color: #804fff;
-  }
-  25% {
-    transform: translateX(350px);
-    background-color: green;
-  }
-  50% {
-    transform: translate(350px, 350px);
-    background-color: gold;
-  }
-  75% {
-    transform: translate(0, 350px);
-    background-color: blue;
-  }
-  100% {
-    transform: translate(0, 0);
-    background-color: #804fff;
-  }
+h1 {
+  font-family: monospace;
+  font-size: 80px;
 }
