@@ -1,0 +1,23 @@
+---------- Lesson-16 ----------(6.04.21)
+#1 --> Reusable animation
+         🔗 https://animate.style
+
+----------- Writing Clean CSS -----------
+#2 --> Case Styles
+       ✅ Camel-Case
+       ✅ Paskal-Case
+       ✅ Snake-Case
+       ✅ Kebab-Case
+       ✅ https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841
+#3 --> BEM (Block Element Modifier)
+       Example
+
+#4 --> Git
+       ✅ Installing git
+       ✅ Create repository
+       ✅ Add Remote
+       ✅ Commited Codes
+       ✅ Pushed Codes
+
+#5 --> Deploying Our Web Apps
+       Login Netlify with github

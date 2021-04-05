@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #efed40;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 80px;
+}
