@@ -10,3 +10,4 @@
 #10 --> Tables
 
 Read: https://medium.com/wdstack/how-to-bootstrap-94abe3525442
+flex proparty: https://css-tricks.com/almanac/properties/f/flex/
