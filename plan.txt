@@ -1,0 +1,11 @@
+--------------- Lesson - 18 -------------
+#1 -> Grids
+=========== Bootstrap Components ===========
+#2 -> Images
+#3 -> Tables
+#4 -> Alerts
+#5 -> Badges
+#6 -> Buttons
+#7 -> Button Groups
+#8 -> Card
+
