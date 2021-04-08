@@ -8,3 +8,5 @@
 #7 --> Reboot
 #9 --> Images
 #10 --> Tables
+
+Read: https://medium.com/wdstack/how-to-bootstrap-94abe3525442
